@@ -1,0 +1,10 @@
+Company,Ticker,Category
+Apple,AAPL,Cash-Rich
+Johnson & Johnson,JNJ,Cash-Rich
+Adobe,ADBE,Cash-Rich
+Amazon,AMZN,Growth
+Align Technology,ALGN,Growth
+Nvidia,NVDA,Growth
+Microsoft,MSFT,Balanced
+Nike,NKE,Balanced
+Abbott Labs,ABT,Balanced
