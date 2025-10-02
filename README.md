@@ -15,6 +15,7 @@
 -- **CompanyInsihgt.csv**
 -- **sp500.pbix**
 -- **sp500-financial-dashboard.pdf**
+-- **Meta-Data-https://www.kaggle.com/datasets/camnugent/sandp500?resource=download**
 
 
 ---
@@ -37,5 +38,6 @@
 - **Nvidia: Explosive AI leader, stock grew 10× (2014–2017)
 
 ---
+
 
 ⚡ *This project is part of my Data Analyst portfolio. Feedback welcome!*  
