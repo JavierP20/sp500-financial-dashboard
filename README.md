@@ -16,6 +16,10 @@
 -- **sp500.pbix**
 -- **sp500-financial-dashboard.pdf**
 -- **Meta-Data-https://www.kaggle.com/datasets/camnugent/sandp500?resource=download**
+![Dashboard Overview](./screenshots/page1.png)
+![Category Comparison](./screenshots/page2.png)
+![Deep Dive Insights](./screenshots/page3.png)
+
 
 
 ---
@@ -41,3 +45,4 @@
 
 
 ⚡ *This project is part of my Data Analyst portfolio. Feedback welcome!*  
+
